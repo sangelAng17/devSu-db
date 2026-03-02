@@ -14,7 +14,10 @@ https://github.com/sangelAng17/devSu-Cliente/blob/main/README.md
  - Postgress
 
 # Instalacion
-Clonar el repositorio de [https://github.com/sangelAng17/pruebaTecnica.git](https://github.com/sangelAng17/nuam.git)
+Clonar los repositorios
+
+° https://github.com/sangelAng17/devSu-Cliente/tree/main
+° https://github.com/sangelAng17/devSu-Cuenta/tree/main
 
 # DIAGRAMA ENTIDAD RELACION 
 
