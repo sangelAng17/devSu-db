@@ -19,11 +19,6 @@ Clonar los repositorios
  - https://github.com/sangelAng17/devSu-Cliente/tree/main
  - https://github.com/sangelAng17/devSu-Cuenta/tree/main
 
-# DIAGRAMA ARQUITECTURA/CLASES
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5c71f7e0-ba3c-4877-b721-7ec8c69f1a66" />
-
-
 # DIAGRAMA ENTIDAD RELACION 
 
 <img width="909" height="658" alt="diagrama" src="https://github.com/user-attachments/assets/171fafbd-f07f-43cf-90a4-5bfe91a5b8eb" />
