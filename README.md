@@ -16,8 +16,8 @@ https://github.com/sangelAng17/devSu-Cliente/blob/main/README.md
 # Instalacion
 Clonar los repositorios
 
-° https://github.com/sangelAng17/devSu-Cliente/tree/main
-° https://github.com/sangelAng17/devSu-Cuenta/tree/main
+ - https://github.com/sangelAng17/devSu-Cliente/tree/main
+ - https://github.com/sangelAng17/devSu-Cuenta/tree/main
 
 # DIAGRAMA ENTIDAD RELACION 
 
