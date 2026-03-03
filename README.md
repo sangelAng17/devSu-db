@@ -325,3 +325,8 @@ GRANT ALL ON SCHEMA public TO postgres;
 GRANT ALL ON SCHEMA public TO public;
 
 ```
+
+## IMPLEMENTACION DE DOCKER
+
+<img width="1113" height="486" alt="image" src="https://github.com/user-attachments/assets/9fac90e8-cd90-47e5-b0ea-625092a6f737" />
+
